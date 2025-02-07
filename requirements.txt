@@ -1,1 +1,1 @@
-Django==4.0.0  # Vulnerable version with known issues
+Django==5.1.5  # Latest django version
